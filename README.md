@@ -35,3 +35,11 @@ Radiação Média por Hora do Dia
 # 🏆 Resultados Obtidos
 O modelo RandomForestRegressor apresentou bom desempenho, com R² de 0.90, demonstrando sua capacidade de prever a radiação solar com base nas variáveis climáticas.
 Os gráficos reforçam a forte relação entre temperatura e radiação solar, além de padrões diários consistentes.
+
+# 📬 Contato
+Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato:
+
+LinkedIn: https://www.linkedin.com/in/marlonmarquesmdm/
+E-mail: marlon.marques.mmd@gmail.com
+🌟 Contribuições são bem-vindas!
+Sinta-se livre para contribuir com melhorias ou novas funcionalidades para este projeto. 😊
